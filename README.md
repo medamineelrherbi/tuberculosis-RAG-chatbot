@@ -136,13 +136,13 @@ What is DOTS strategy?
 This chatbot is for educational and demonstration purposes only. It is not a substitute for professional medical advice. Always consult a qualified health provider with any questions about a medical condition.
 
 🧠 Future Improvements
- Add multilingual support (e.g., French, Arabic)
+ **Add multilingual support (e.g., French, Arabic)**
 
- Improve frontend with React or Streamlit
+ **Improve frontend with React or Streamlit**
 
- Support multiple medical domains via document categorization
+ **Support multiple medical domains via document categorization**
 
- Add user chat history and context memory
+ **Add user chat history and context memory**
 ```
 ⭐️ Show your support
 If you like this project, please give it a ⭐️ on GitHub and share it with your network!
