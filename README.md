@@ -72,12 +72,12 @@ openai
 Place your tuberculosis PDFs inside this folder:   
 ./RAG/tuberculous  
 Already used:  
-
+  
 3 WHO Tuberculosis Guidelines PDFs
 
 1 International Standards for Tuberculosis Care PDF
 
-3 CDC
+1 CDC
 
 4. Set your Groq API key
 Create a .env file (or set as environment variable):
