@@ -47,9 +47,11 @@ This project helps **students, patients, and healthcare professionals** get clea
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tuberculosis-rag-chatbot.git
+git clone https://github.com/your-username/tuberculosis-rag-chatbot
 cd tuberculosis-rag-chatbot
+```
 2. Create a virtual environment and install dependencies
+```
 python -m venv venv
 venv\Scripts\activate     # on Windows
 # or
@@ -65,6 +67,7 @@ pdfplumber
 sentence-transformers
 langchain
 openai
+```
 3. Add your PDF files
 Place your tuberculosis PDFs inside this folder:
 ./RAG/tuberculous
