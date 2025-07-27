@@ -117,15 +117,15 @@ What are the recommended treatments according to WHO?
 What is DOTS strategy?
 
 🎯 Benefits & Use Cases
-✅ Reliable answers from real medical documentation
+- Reliable answers from real medical documentation
 
-✅ Helps students revise or learn about tuberculosis
+- Helps students revise or learn about tuberculosis
 
-✅ Aids patients in understanding their condition
+- Aids patients in understanding their condition
 
-✅ Demonstrates practical use of RAG in healthcare
+- Demonstrates practical use of RAG in healthcare
 
-✅ Reusable for any medical topic with just new PDFs
+- Reusable for any medical topic with just new PDFs
 
 🛡️ Disclaimers
 This chatbot is for educational and demonstration purposes only. It is not a substitute for professional medical advice. Always consult a qualified health provider with any questions about a medical condition.
