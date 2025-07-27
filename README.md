@@ -68,10 +68,10 @@ sentence-transformers
 langchain
 openai
 ```
-3. Add your PDF files
-Place your tuberculosis PDFs inside this folder:
-./RAG/tuberculous
-Already used:
+3. Add your PDF files  
+Place your tuberculosis PDFs inside this folder:   
+./RAG/tuberculous  
+Already used:  
 
 3 WHO Tuberculosis Guidelines PDFs
 
