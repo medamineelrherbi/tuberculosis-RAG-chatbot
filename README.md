@@ -68,7 +68,8 @@ sentence-transformers
 langchain
 openai
 ```
-3. Add your PDF files  
+3. Add your PDF files
+```
 Place your tuberculosis PDFs inside this folder:   
 ./RAG/tuberculous  
 Already used:  
@@ -78,11 +79,13 @@ Already used:
 1 International Standards for Tuberculosis Care PDF
 
 1 CDC
-
+```
 4. Set your Groq API key
+```
 Create a .env file (or set as environment variable):
 
 GROQ_API_KEY=your_api_key_here
+```
 Or set it directly in your terminal:
 ```
 set GROQ_API_KEY=your_api_key_here  # on Windows
