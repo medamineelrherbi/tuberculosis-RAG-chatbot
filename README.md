@@ -110,8 +110,9 @@ tuberculosis-rag-chatbot/
 ├── assets/
 │   └── architecture.png     # Diagram placeholder
 └── requirements.txt         # Dependencies list
-💬 Example Questions You Can Ask
 ```
+💬 Example Questions You Can Ask
+
 What are the symptoms of tuberculosis?
 
 How is tuberculosis transmitted?
