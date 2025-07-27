@@ -84,12 +84,12 @@ Create a .env file (or set as environment variable):
 
 GROQ_API_KEY=your_api_key_here
 Or set it directly in your terminal:
-
+```
 set GROQ_API_KEY=your_api_key_here  # on Windows
 # or
 export GROQ_API_KEY=your_api_key_here  # on Linux/macOS
 You can get your API key from Groq Console
-
+```
 5. Run the Flask application
 python main.py
 Then visit http://127.0.0.1:5000 to chat with your medical assistant.
