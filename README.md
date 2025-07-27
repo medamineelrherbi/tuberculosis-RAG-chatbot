@@ -111,6 +111,7 @@ tuberculosis-rag-chatbot/
 │   └── architecture.png     # Diagram placeholder
 └── requirements.txt         # Dependencies list
 💬 Example Questions You Can Ask
+```
 What are the symptoms of tuberculosis?
 
 How is tuberculosis transmitted?
@@ -148,6 +149,6 @@ If you like this project, please give it a ⭐️ on GitHub and share it with yo
 🧑‍💻 Author
 Mohamed Amine El Rherbi
 Information Systems & Big Data Engineering
-```
+
 
 ---
