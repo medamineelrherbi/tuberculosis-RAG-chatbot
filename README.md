@@ -74,7 +74,7 @@ Place your tuberculosis PDFs inside this folder:
 ./RAG/tuberculous  
 Already used:  
   
-3 WHO Tuberculosis Guidelines PDFs
+2 WHO Tuberculosis Guidelines PDFs
 
 1 International Standards for Tuberculosis Care PDF
 
