@@ -95,6 +95,7 @@ python main.py
 Then visit http://127.0.0.1:5000 to chat with your medical assistant.
 
 📁 Project Structure
+```
 tuberculosis-rag-chatbot/
 │
 ├── main.py                  # Main backend logic (Flask + RAG)
@@ -144,6 +145,6 @@ If you like this project, please give it a ⭐️ on GitHub and share it with yo
 🧑‍💻 Author
 Mohamed Amine El Rherbi
 Information Systems & Big Data Engineering
-
+```
 
 ---
