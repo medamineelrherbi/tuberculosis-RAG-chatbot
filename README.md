@@ -143,13 +143,14 @@ This chatbot is for educational and demonstration purposes only. It is not a sub
  Support multiple medical domains via document categorization
 
  Add user chat history and context memory
-
+```
 ⭐️ Show your support
 If you like this project, please give it a ⭐️ on GitHub and share it with your network!
-
+```
+```
 🧑‍💻 Author
 Mohamed Amine El Rherbi
 Information Systems & Big Data Engineering
-
+```
 
 ---
