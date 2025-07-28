@@ -135,7 +135,7 @@ What is DOTS strategy?
 🛡️ Disclaimers
 This chatbot is for educational and demonstration purposes only. It is not a substitute for professional medical advice. Always consult a qualified health provider with any questions about a medical condition.
 
-🧠 Future Improvements
+🧠 Future Improvements  
  **Add multilingual support (e.g., French, Arabic)**
 
  **Improve frontend with React or Streamlit**
@@ -148,7 +148,7 @@ This chatbot is for educational and demonstration purposes only. It is not a sub
 If you like this project, please give it a ⭐️ on GitHub and share it with your network!
 ```
 ```
-🧑‍💻 Author
+Author
 Mohamed Amine El Rherbi
 Information Systems & Big Data Engineering
 ```
