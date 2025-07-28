@@ -1,6 +1,6 @@
 # 🧠 Tuberculosis RAG Chatbot (PDF QA using FAISS + Groq LLaMA3)
 
-A medical chatbot that answers questions about tuberculosis by reading official PDF documents using a **Retrieval-Augmented Generation (RAG)** pipeline built with **FAISS**, **Sentence Transformers**, and **Groq-hosted LLaMA 3**.
+A medical chatbot that answers questions about tuberculosis using trusted health publications and guidelines using a **Retrieval-Augmented Generation (RAG)** pipeline built with **FAISS**, **Sentence Transformers**, and **Groq-hosted LLaMA 3**.
 
 This project helps **students, patients, and healthcare professionals** get clear, reliable answers based on up-to-date resources from the **World Health Organization** and **International Standards for Tuberculosis Care** and **CDC**.
 
